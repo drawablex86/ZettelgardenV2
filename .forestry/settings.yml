@@ -4,9 +4,17 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: README.md
+  label: Instructions
+  match: "**/*"
+- type: document
+  path: config.js
+  label: Configuration
+  match: "**/*"
 - type: directory
   path: content/vault
-  label: Directory
+  label: Posts
   create: all
   match: "**/*"
 upload_dir: media
