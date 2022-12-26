@@ -1,15 +1,15 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "https://lovely-crostata-8b90a8.netlify.app",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_TITLE: "Zettelgarden",
+  SITE_SUBTITLE: "Rahul Rajeev's Digital Garden",
   SITE_DESCRIPTION:
-    "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+    "A Digital Garden by Rahyl Rajeev",
+  KEYWORDS: "Rahul Rajeev, Dreamflakes, Digial Garden",
   HERO_TITLE:
-    "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+    "Rahul Rajeev's Digital Garden.",
+  HERO_SUBTITLE: "Knowledge Management in public",
+  COPYRIGHT: "Rahul Rajeev",
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
@@ -41,7 +41,7 @@ module.exports = {
     },
   ],
   AUTHOR: {
-    NAME: "JUXT Design",
-    TWITTER: "@juxtdesigncc",
+    NAME: "Rahul Rajeev",
+    TWITTER: "@rahulrajeeev",
   },
 };
