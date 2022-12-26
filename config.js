@@ -4,11 +4,11 @@ module.exports = {
   SITE_TITLE: "Zettelgarden",
   SITE_SUBTITLE: "Rahul Rajeev's Digital Garden",
   SITE_DESCRIPTION:
-    "A Digital Garden by Rahyl Rajeev",
+    "A Digital Garden by Rahul Rajeev",
   KEYWORDS: "Rahul Rajeev, Dreamflakes, Digial Garden",
   HERO_TITLE:
     "Rahul Rajeev's Digital Garden.",
-  HERO_SUBTITLE: "Knowledge Management in public",
+  HERO_SUBTITLE: "Collection of my learning notes",
   COPYRIGHT: "Rahul Rajeev",
   LOCALE: "en",
   POST_PER_PAGE: 6,
@@ -37,7 +37,7 @@ module.exports = {
     },
     {
       label: "Github",
-      path: "https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden",
+      path: "https://github.com/drawablex86",
     },
   ],
   AUTHOR: {

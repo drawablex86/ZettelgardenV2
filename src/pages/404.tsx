@@ -14,7 +14,7 @@ const NotFoundPage = () => {
           <span role="img" aria-label="Pensive emoji">
             😔
           </span>
-          we couldn’t find what you were looking for.
+          we couldn’t find what you were looking for. The page might have been deleted.
           <br />
           {process.env.NODE_ENV === "development" ? (
             <>
