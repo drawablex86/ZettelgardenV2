@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "ea845118189ca484",
+    "type": "split",
+    "children": [
+      {
+        "id": "42714cd6c35ab090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0780a079bcde2f58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b89778161b6e1a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7be9f76afb59e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changelog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cf1237242fc7fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0adf69ef1a1c99b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b59e46cdc85ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07ddce9527b42be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aea00deba72b1a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#digital-garden",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28df589dd5d11c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80069eb07bf4137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03b854fedaab911",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changelog.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f1c9254260cc8797",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a7be9f76afb59e3e",
+  "lastOpenFiles": [
+    "Design OKR.md",
+    "Changelog.md",
+    "template/Template.md",
+    "Getting Started.md",
+    "Markdown.md",
+    "Premature Abstraction.md",
+    "web/Cumulative Layout Score.md",
+    "Untitled.md",
+    "mac/Dotfiles.md",
+    "web/Googe Lighthouse Score.md"
+  ]
+}
