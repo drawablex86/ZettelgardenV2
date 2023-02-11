@@ -3,6 +3,7 @@ tags:
   - OKR
 category: "essays"
 stage: evergreen
+publish: false
 ---
 
 # Design OKR

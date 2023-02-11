@@ -27,12 +27,8 @@
             "id": "a7be9f76afb59e3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is simplicity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -41,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is simplicity.md",
+                "file": "Changelog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e571743e7d9029f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is simplicity.md",
+                "file": "Markdown.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,17 +153,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9cf1237242fc7fe0",
+  "active": "5e571743e7d9029f",
   "lastOpenFiles": [
-    "What is simplicity.md",
+    "Design OKR.md",
     "Getting Started.md",
     "Markdown.md",
-    "Changelog.md",
-    "Design OKR.md",
+    "Home Note.md",
     "template/Template.md",
+    "Changelog.md",
+    "OKR.md",
+    "What is simplicity.md",
     "Premature Abstraction.md",
-    "web/Cumulative Layout Score.md",
-    "Untitled.md",
-    "mac/Dotfiles.md"
+    "web/Cumulative Layout Score.md"
   ]
 }

@@ -6,6 +6,7 @@ tags:
   - service-design
 stage: "seedling"
 publish: false
+category: "essays"
 ---
 
 Please mark stages as seedling, budding evergreen
