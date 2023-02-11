@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Template.md",
+                "file": "Changelog.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/Template.md",
+                "file": "Changelog.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,20 +135,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
-    }
-  },
   "active": "a7be9f76afb59e3e",
   "lastOpenFiles": [
-    "Changelog.md",
     "Design OKR.md",
+    "Changelog.md",
     "template/Template.md",
     "Getting Started.md",
     "Markdown.md",

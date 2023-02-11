@@ -18,7 +18,7 @@ const featureData = [
   {
     title: "SEO",
     description:
-      "Better SEO than <a href="https://obsidian.md/publish/">Obsidian Publish</a> (Using react-helmet for basic SEO setup)",
+      "Better SEO than Obsidian Publish (Using react-helmet for basic SEO setup)",
   },
 ];
 
