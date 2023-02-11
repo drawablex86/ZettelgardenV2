@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog.md",
+                "file": "What is simplicity.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started.md",
+                "file": "What is simplicity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changelog.md",
+                "file": "What is simplicity.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,17 +135,27 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7be9f76afb59e3e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9cf1237242fc7fe0",
   "lastOpenFiles": [
-    "Design OKR.md",
-    "Changelog.md",
-    "template/Template.md",
+    "What is simplicity.md",
     "Getting Started.md",
     "Markdown.md",
+    "Changelog.md",
+    "Design OKR.md",
+    "template/Template.md",
     "Premature Abstraction.md",
     "web/Cumulative Layout Score.md",
     "Untitled.md",
-    "mac/Dotfiles.md",
-    "web/Googe Lighthouse Score.md"
+    "mac/Dotfiles.md"
   ]
 }
