@@ -1,5 +1,5 @@
 ---
-date: 2022-01-07
+date: 2023-01-10
 slug: service-design-2022
 tags:
   - user-research
